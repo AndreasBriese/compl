@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strconv"
 	"time"
-	"code.google.com/p/goplan9/plan9/acme"
+	"github.com/9fans/go/acme"
 )
 
 var compl_win *acme.Win
